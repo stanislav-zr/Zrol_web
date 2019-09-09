@@ -1,0 +1,14 @@
+git branch pz_1_3_1
+git checkout pz_1_3_1
+git branch
+git commit -m "make klone"
+git add .
+git commit -m "vidstezenny"
+git add .
+git commit -m "com"
+git add .
+git commit -m "vidpravka"
+git checkout master
+git merge pz_1_3_1
+git branch -D pz_1_3_1
+git push
