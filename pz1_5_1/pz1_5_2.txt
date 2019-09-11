@@ -1,0 +1,144 @@
+<html>
+<head>
+	<title>pz1_5_2</title>
+</head>
+<body>
+
+
+
+
+
+
+
+
+<table border="6">
+<tr>
+<th colspan="4">Мій електронний довідник HTML</th>
+</tr>
+<tr>
+	<th>Призначення</th>
+	<th>Назва тегу</th>
+	<th>Короткий опис</th>
+	<th>Стандарт</th></tr>
+<tr align="center">
+	<td rowspan="3">Для каркасу документа</td>
+	<td>&lthtml&gt</td>
+	<td>Початок і закінчення HTML-коду</td>
+	<td>HTML5</td>
+</tr>
+<tr align="center">
+	<td>&lthead&gt</td>
+	<td>Загаловок сторінки</td>
+	<td>HTML5</td>
+</tr>
+<tr align="center">
+	<td>&ltbody&gt</td>
+	<td>Вміст веб-сторінки</td>
+	<td>HTML5</td>
+</tr>
+
+
+
+
+
+<tr align="center">
+	<td rowspan="10">Для роботи з текстом</td>
+	<td>&lti&gt</td>
+	<td>Робить курсивний шрифт</td>
+	<td>HTML5</td>
+</tr>
+<tr align="center">
+	<td>&ltu&gt</td>
+	<td>Підкреслює</td>
+	<td>HTML5</td>
+</tr>
+<tr align="center">
+	<td>&ltbr&gt</td>
+	<td>Новий рядок</td>
+	<td>HTML5</td>
+</tr>
+<tr align="center">
+	<td>&ltp&gt</td>
+	<td>Новий параграф</td>
+	<td>HTML5</td>
+</tr>
+<tr align="center">
+	<td>&ltb&gt</td>
+	<td>Жирний шрифт</td>
+	<td>HTML5</td>
+</tr>
+<tr align="center">
+	<td>&ltem&gt</td>
+	<td>Нахилений шрифт</td>
+	<td>HTML5</td>
+</tr>
+<tr align="center">
+	<td>&lth1-h6&gt&lt/h1-h6&gt</td>
+	<td>Заголовки</td>
+	<td>HTML5</td>
+</tr>
+<tr align="center">
+	<td>&lts&gt</td>
+	<td>Вміст веб-сторінки</td>
+	<td>HTML5</td>
+</tr>
+<tr align="center">
+	<td>&ltsup&gt</td>
+	<td>Підстроковий текст</td>
+	<td>HTML5</td>
+</tr>
+<tr align="center">
+	<td>&ltsub&gt</td>
+	<td>Надстроковий</td>
+	<td>HTML5</td>
+</tr>
+
+
+
+
+<tr align="center">
+	<td>Для гіперпосилань</td>
+	<td>&ltа&gt</td>
+	<td>Гіперпосилання</td>
+	<td>HTML5</td>
+</tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</table>
+
+
+</body>
+</html>
