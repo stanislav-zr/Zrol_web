@@ -1,0 +1,132 @@
+<html>
+<head>
+	<title>pz1_5_3</title>
+</head>
+<body>
+<p><h2>Назва тегу: &ltlink&gt</h2></p>    
+
+<p>Встановлює зв'язок із зовнішнім документом на зразок файлу зі стилями або з шрифтами. На відміну від тега <a>, тег <link> розміщується завжди всередині контейнера <head> і не створює посилання.
+</p>
+
+
+<p><h2>Синтаксис</h2></p>
+<p><b>&lthead&gt</b>
+<br><b>&ltlink</b> атрибути<b>&gt</b>
+<br><b>&lt/head&gt</b>  </p>
+
+
+<p><h2>Атрибути</h2></p>
+
+<table border="3">
+<tr align="center">
+	<th>Назва тегу</th>
+	<th>Опис тегу</th>
+	
+</tr>
+
+<tr align="center">
+	<td>charset</td>
+	<td>Кодування пов'язувального документа.</td>
+	
+</tr>
+<tr align="center">
+	<td>href</td>
+	<td>Шлях до пов'язують файлу.</td>
+	
+</tr>
+<tr align="center">
+	<td>media</td>
+	<td>Визначає пристрій, для якого слід застосовувати стильове оформлення.</td>
+	
+</tr>
+<tr align="center">
+	<td>rel</td>
+	<td>Визначає відносини між поточним документом і файлом, на який робиться посилання.</td>
+	
+</tr>
+<tr align="center">
+	<td>sizes</td>
+	<td>Вказує розмір іконок для візуального відображення.</td>
+	
+</tr>
+<tr align="center">
+	<td>charset</td>
+	<td>MIME-тип даних підключення файлу.</td>
+	
+
+</tr>
+</table>
+
+<p><h2>Браузери</h2></p>
+
+
+<table border="3">
+<tr>
+	<td><img src="expl.png" width="20" height="20">  Internet Explorer</td>
+	<td><img src="crome.png" width="20" height="20">Chrome</td>
+	<td><img src="Opera.png" width="20" height="20">Opera</td>
+	<td><img src="aSafari.png" width="20" height="20">Safari</td>
+	<td><img src="Firefox.png" width="20" height="20">Firefox</td>
+	<td><img src="andr.png" width="20" height="20">Android</td>
+	<td><img src="apple.png" width="20" height="20">IOS</td>
+	
+</tr>
+
+
+
+
+
+
+<tr>
+	<td align="center"><img src="galka.png" width="15" height="15">3.0+</td>
+	<td align="center"><img src="galka.png" width="15" height="15">1.0+</td>
+	<td align="center"><img src="galka.png" width="15" height="15">4.0+</td>
+	<td align="center"><img src="galka.png" width="15" height="15">1.0+</td>
+	<td align="center"><img src="galka.png" width="15" height="15">1.0+</td>
+	<td align="center"><img src="galka.png" width="15" height="15">1.0+</td>
+	<td align="center"><img src="galka.png" width="15" height="15">1.0+</td>
+<tr>
+
+
+</table>
+
+
+<p><h2>Приклад:</h2></p>
+
+<p>
+
+<b>&lt!DOCTYPE HTML&gt<br></b>
+<b>&lthtml&gt<br></b>
+  <b>&lthead&gt<br></b>
+  <b>&ltmeta</b> charset="utf-8"&gt<br>
+   <b>&lttitle&gt</b>Тег LINK<b>&lt/title&gt<br></b>
+   <b>&ltlink</b> rel="stylesheet" href="ie.css"&gt<br>
+   <b>&ltlink</b> rel="alternate" type="application/rss+xml" title="Статьи с сайта htmlbook.ru" href="http://htmlbook.ru/rss.xml"&gt<br> 
+   <b>&ltlink</b> rel="shortcut icon" href="http://htmlbook.ru/favicon.ico"&gt<br>
+  <b>&l/head&gt<br></b>
+  <b>&ltbody&gt<br></b>
+    <b>&ltp&gt...&lt/p&gt<br></b>
+  <b>&lt/body&gt<br></b>
+<b>&lt/html&gt<br></b>
+
+</p>
+<br>
+<p align="right">
+
+<b>Автор курсант 263н.г. Зроль Станіслав Сергійович</b>
+
+
+</p>
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
