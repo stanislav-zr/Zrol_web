@@ -1,0 +1,161 @@
+.fotobook{
+  float: left;
+
+}
+.kniga{
+  text-align: center;
+}
+
+
+.textbio{
+  float: left ;
+}
+
+.fonorobin{
+  height: 250px;
+  width: 155px;
+}
+
+
+h1{
+  text-align: center;
+  color: blue;
+}
+
+.bg1{
+  background: #888888;
+}
+.posylannya{
+  text-decoration: none;
+  color: chartreuse;
+  display: inline-block;
+}
+h2{
+  text-align: center;
+  color: darkred;
+  font-size: 16px;
+}
+
+.tolst{
+  font-weight: bold;
+}
+
+
+.kur{
+  display: inline-block;
+  font-style: italic ;
+
+}
+
+.kus1{
+  height: 260px;
+  border-bottom: 3px solid blue;
+}
+.kurs2{
+  border-bottom: 3px solid blue;
+}
+.kurs3{
+  border-bottom: 3px solid blue;
+}
+.tabl{
+  border-collapse: collapse;
+  border: 1px solid grey;
+}
+.tabl tr{
+  border: 1px solid grey;
+  text-align: center;
+}
+.tabl td{
+  border: 1px solid grey;
+  text-align: center;
+}
+.tabl th{
+  border: 1px solid grey;
+  text-align: center;
+}
+body {
+  background: url(https://webfon.top/wp-content/uploads/2018/12/tochki.png) left top repeat;
+}
+.bg2 {
+  background: url(https://webfon.top/wp-content/uploads/2016/10/pattern_376.jpg) left top repeat;
+}
+
+.film{
+  text-align: center;
+  color: black ;
+  font-size: 50px;
+  font-weight: bolder;
+  font-family: "algerian";
+  text-indent: 20px
+}
+.fotofilm{
+  float: left;
+  border-top-width: 35px;
+  border-bottom-width: 100px;
+  border: 1px solid #000;
+  border-radius: 10px;
+  box-shadow:5px 5px 10px #2B1015;
+  margin-right: 20px;
+}
+
+.opys{
+  text-align: left;
+  font-size: 17px;
+  text-indent: 20px;
+  font-family: "century gothic";
+}
+
+.bukvi{
+  font-size: 20px;
+  text-indent: 20px;
+  font-family: "bart";
+  font-weight: bolder;
+}
+.abzac{
+  text-align: left;
+  font-weight: bolder;
+  font-size: 20px;
+  font-size: 17px;
+  font-family: "bart";
+}
+
+.text{
+  text-align: left;
+  font-size: 20px;
+  font-size: 17px;
+  font-family: "gabriola"
+  font-weight: revert;
+}
+
+div.container1 {
+  width: 50%;
+  max-width: 960px;
+  margin: 0 auto;
+}
+div.container2 {
+  width: 50%;
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+.def{
+  text-decoration: none;
+  color: forestgreen;
+}
+.cool{
+
+  text-align: center;
+  font-weight: bolder;
+  font-size: 30px;
+  font-size: 40px;
+  font-family: "algerian";
+
+}
+body {
+  background: url(https://webfon.top/wp-content/uploads/2018/12/tochki.png) left top repeat;
+}
+.texx{
+  text-indent: 10px;
+  margin: 20px;
+  font-size: 20px;
+}
